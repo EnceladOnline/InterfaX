@@ -1,0 +1,9 @@
+POUR UTILISER INTERFAX:
+======================
+
+- Installer Python 3.x : www.python.org
+
+- Installer PIL 2.8.1 : https://pypi.python.org/pypi/Pillow/2.8.1
+
+- Installer... C'est tout ! ;-)
+
